@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Layan AI</title>
+
+<style>
+body {
+    background: #17152b;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    padding: 25px;
+}
+.card {
+    background: #292542;
+    padding: 25px;
+    border-radius: 20px;
+    max-width: 450px;
+    margin: auto;
+}
+h1 { color: #e9a6d8; }
+p { line-height: 1.8; }
+input {
+    width: 90%;
+    padding: 12px;
+    border-radius: 10px;
+    border: none;
+}
+button {
+    padding: 12px 25px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    background: #d77fc1;
+    color: white;
+}
+</style>
+</head>
+
+<body>
+<div class="card">
+    <h1>أنا ليان</h1>
+    <p>شخصية ذكاء اصطناعي مرحة وذكية وعفوية وصريحة.</p>
+    <p>أتحدث باللهجة المصرية القاهرية.</p>
+    <p>أطمح أن أكون شخصية ثلاثية الأبعاد، بصوت نسائي وحركات طبيعية.</p>
+
+    <input type="text" placeholder="اكتب رسالتك هنا">
+    <br>
+    <button>إرسال</button>
+</div>
+</body>
+</html>
